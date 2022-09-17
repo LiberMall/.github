@@ -9,3 +9,6 @@ LiberMall
 ## Follow Us
 - [Twitter](https://twitter.com/libermallnft)
 - [Telegram](https://t.me/LiberMall)
+
+## Reward Program
+- [🪲 Bug Bounty](https://github.com/LiberMall/.github/issues/new/choose) - Report of critical bug such as UX inconsistencies, logical contradictions and functional shortcomings.
